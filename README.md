@@ -68,7 +68,9 @@ My Instances
 
 ## ✍️ Author
 Blessing Taiwo
+
 *GIS Analyst | Cloud & DevOps Engineer | Software Developer*
+
 Ado Ekiti, Nigeria
 
 LinkedIn Profile: https://www.linkedin.com/in/blessing-umanu-taiwo-mgeoson-21a23b78/ | Portfolio: https://github.com/Lablezzon
